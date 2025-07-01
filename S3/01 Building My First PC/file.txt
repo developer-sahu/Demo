@@ -1,0 +1,9 @@
+1. CPU (Central Processing Unit) :- The CPU is the main part of a computer that carries out instructions and runs programs. 
+It’s often called the brain of the computer.
+
+2. Processor :- The processor is another name for the CPU. Both words mean the same thing in most cases.
+
+3. Core :- A core is a small unit inside the CPU that can do its own work. 
+More cores help the computer do many tasks at the same time and work faster.
+
+
